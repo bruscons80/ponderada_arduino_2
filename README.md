@@ -26,7 +26,7 @@ Ligue um fio preto do pino GND do Arduino para a barra azul (linha de GND) later
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="../ponderada_arduino_2/Vídeo:Fotos/7.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/7.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -41,7 +41,7 @@ Logo após isso, leve a tensão elétrica para seção da protoboard que será u
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="../ponderada_arduino_2/Vídeo:Fotos/6.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/6.jpeg">
 </div>
 <br>
 <div align="center">
@@ -50,7 +50,6 @@ Logo após isso, leve a tensão elétrica para seção da protoboard que será u
 
 
 ### 2. Ligue um Resistor a cada jumper utilizado. 
-(Foto: "3.jpg", "4.jpg")
 
 Ligue um resistor (220 Ω ou 330 Ω) ao jumper que será ligado ao catodo, conectando a outra extremidade do resistor à linha azul da protoboard (terra/GND). Assim cada LED terá sua própria proteção de corrente.
 
@@ -60,7 +59,7 @@ Ligue um resistor (220 Ω ou 330 Ω) ao jumper que será ligado ao catodo, conec
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="../ponderada_arduino_2/Vídeo:Fotos/5.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/5.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -70,7 +69,6 @@ Ligue um resistor (220 Ω ou 330 Ω) ao jumper que será ligado ao catodo, conec
 ---
 
 ### 3. Posicione e Conecte os LEDs
-(Foto: "4.jpg")
 
 Insira na protoboard os três LEDs (vermelho, amarelo e verde) em colunas diferentes. Coloque cada LED com o anodo (perna maior) para um lado e catodo (perna menor) para o outro. Deixe espaço suficiente para conectar os resistores em sequência.
 
@@ -80,7 +78,7 @@ Insira na protoboard os três LEDs (vermelho, amarelo e verde) em colunas difere
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="../ponderada_arduino_2/Vídeo:Fotos/1.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/1.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -106,7 +104,7 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="../ponderada_arduino_2/Vídeo:Fotos/4.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/2.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -119,7 +117,7 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="../ponderada_arduino_2/Vídeo:Fotos/3.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/3.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -133,7 +131,7 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="../ponderada_arduino_2/Vídeo:Fotos/2.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/2.jpeg"/>
 </div>
 <br>
 <div align="center">
