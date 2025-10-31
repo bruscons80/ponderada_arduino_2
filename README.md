@@ -26,7 +26,7 @@ Ligue um fio preto do pino GND do Arduino para a barra azul (linha de GND) later
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="ponderada_arduino_2/Vídeo:Fotos/7.jpeg"/>
+<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/7.jpeg"/>
 </div>
 <br>
 <div align="center">
