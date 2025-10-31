@@ -211,4 +211,29 @@ O bloco `loop()` executa continuamente e define a lógica do semáforo:
 
 Depois disso, o ciclo reinicia, repetindo continuamente o funcionamento do semáforo.
 
+# Código Semáforo em Orientação a Objetos (POO) - Arduino
 
+Este trecho reescreve o semáforo para Arduino usando Orientação a Objetos em C++. Isso facilita reuso, organização e manutenção.
+
+## Estrutura
+
+- **Classe Led:**  
+  Representa cada LED. Encapsula os métodos básicos: ligar (`on`), desligar (`off`) e configuração automática do modo de pino no construtor.
+
+- **Classe Semaforo:**  
+  Reúne três LEDs (vermelho, amarelo e verde) e implementa o método `.ciclo()`, responsável por acender e apagar os LEDs conforme as fases do semáforo com os devidos atrasos.
+
+## Funcionamento do Código
+
+- Na função principal (`setup`), nada precisa ser feito, pois todas as configurações acontecem nos construtores das classes.
+- No `loop`, chama-se `semaforo.ciclo()`, que realiza uma vez a sequência completa do semáforo: 
+  - Amarelo aceso (2s)
+  - Vermelho aceso (6s)
+  - Verde aceso (4s)
+- O processo se repete indefinidamente.
+
+## Vantagens
+
+- Facilidade para criar, modificar ou expandir (por exemplo, para semáforos com mais LEDs).
+- Código mais modular e legível.
+- Permite múltiplos objetos do tipo Semáforo, se desejar outros conjuntos independentes de LEDs.
