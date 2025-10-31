@@ -26,7 +26,7 @@ Ligue um fio preto do pino GND do Arduino para a barra azul (linha de GND) later
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/7.jpeg"/>
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/7.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -41,7 +41,7 @@ Logo após isso, leve a tensão elétrica para seção da protoboard que será u
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/6.jpeg">
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/6.jpeg">
 </div>
 <br>
 <div align="center">
@@ -59,7 +59,7 @@ Ligue um resistor (220 Ω ou 330 Ω) ao jumper que será ligado ao catodo, conec
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/5.jpeg"/>
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/5.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -78,7 +78,7 @@ Insira na protoboard os três LEDs (vermelho, amarelo e verde) em colunas difere
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/1.jpeg"/>
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/1.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -104,7 +104,7 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/2.jpeg"/>
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/2.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -117,7 +117,7 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/3.jpeg"/>
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/3.jpeg"/>
 </div>
 <br>
 <div align="center">
@@ -131,7 +131,7 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="Vídeo:Fotos/2.jpeg"/>
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/2.jpeg"/>
 </div>
 <br>
 <div align="center">
