@@ -138,6 +138,18 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 
+<br>
+<div align="center">
+</div>
+<br>
+<div align="center">
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/semáforo_final.jpeg"/>
+</div>
+<br>
+<div align="center">
+</div>
+<br>
+
 ## Funcionamento
 
 Com o código carregado no Arduino, os LEDs devem acender conforme o ciclo do semáforo:  
