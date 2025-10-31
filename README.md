@@ -104,7 +104,7 @@ Faça a ligação direta com fios do Arduino para os anodos dos respectivos LEDs
 </div>
 <br>
 <div align="center">
-<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/2.jpeg"/>
+<img width=100% height=100% alt="VGND" src="./Vídeo:Fotos/4.jpeg"/>
 </div>
 <br>
 <div align="center">
